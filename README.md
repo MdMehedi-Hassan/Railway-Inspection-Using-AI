@@ -126,6 +126,6 @@ Through continuous development and real-world deployment, this project paves the
 
 ---
 
-## Video Overview:
+## 🎥 Video Overview:
 Check out our project demonstration on YouTube:
 [Watch the video here](https://shorturl.at/KFK43)
