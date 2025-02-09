@@ -30,6 +30,7 @@ This project leverages artificial intelligence to automate the inspection of rai
   - Precision: 100%
   - Recall: 100%
   - F1-Score: 99.5%
+  - mAP: 99.5%
 
 **F1-Confidence Curve**![image](https://github.com/user-attachments/assets/eefa5dba-b1da-4c4d-abca-7c0fe33caa53)
 
@@ -47,7 +48,6 @@ This project leverages artificial intelligence to automate the inspection of rai
 - **YOLO**: Annotation and detection framework for images.
 - **Google CoLab**: Deep learning framework for training and inference.
 - **Kaggle**: Platform for dataset management and experimentation.
-- **OpenCV**: Image processing and analysis library.
 
 ---
 
@@ -57,7 +57,7 @@ This project leverages artificial intelligence to automate the inspection of rai
   - Used for feature extraction and classification to detect track defects.  
   - Ensures robust and reliable detection using a supervised learning approach.  
 
-- **Neural Networks (CNN)**:  
+- **Neural Networks (YOLO11)**:  
   - Core of the defect detection system, implemented using YOLO for object detection.  
   - Processes and analyzes images to identify and localize defects with bounding boxes and confidence scores.  
 
@@ -75,7 +75,7 @@ This project leverages artificial intelligence to automate the inspection of rai
   2. Model Training: YOLO-based ML models were trained on the annotated dataset.  
   3. Evaluation: Accuracy metrics such as precision, recall, and F1 score were used to validate performance.  
 
-### **Neural Networks (CNN)**  
+### **Neural Networks (YOLO11)**  
 - **Purpose**: High-accuracy image recognition for defect detection.  
 - **Implementation**:  
   1. The YOLO model was trained on annotated railway track images.  
