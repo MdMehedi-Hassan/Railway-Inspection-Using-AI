@@ -79,12 +79,7 @@ This project leverages artificial intelligence to automate the inspection of rai
 - **Purpose**: High-accuracy image recognition for defect detection.  
 - **Implementation**:  
   1. The YOLO model was trained on annotated railway track images.  
-  2. Optimized using techniques like batch normalization and learning rate scheduling.  
-
-### **Natural Language Processing (NLP)**  
-While NLP is not directly implemented in the current version, it has potential applications, such as:  
-- **Automated Reporting**: Generating textual descriptions of detected defects.  
-- **User Interaction**: Enabling inspectors to query the system about defects or maintenance recommendations using natural language.  
+  2. Optimized using techniques like batch normalization and learning rate scheduling.    
 
 ---
 
